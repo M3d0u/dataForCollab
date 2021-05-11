@@ -1,0 +1,377 @@
+,Date,Nom de la mission,État,Destination (attitude),Commentaire
+0,4 octobre 1957,Spoutnik 1,Union soviétique,Terre (orbiteur),Succès : premier satellite artificiel en orbite terrestre basse.Premier satellite artificiel russe. Lancé par une fusée R-7 Semiorka depuis le cosmodrome de Baïkonour. La Russie devient la première puissance spatiale.
+1,3 novembre 1957,Spoutnik 2,Union soviétique,Terre (orbiteur),Succès partiel : premier satellite artificiel en orbite terrestre basse avec un animal (Laïka)
+2,6 décembre 1957,Vanguard TV3,États-Unis,Terre (orbiteur),Échec : explose sur  le champ de tir
+3,1er février 1958,Explorer 1,États-Unis,Terre (orbiteur),Succès : premier satellite artificiel américain. Lancé par une fusée Juno I depuis la base de lancement de Cap Canaveral. Les États-Unis deviennent la deuxième puissance spatiale. Découverte de la Ceinture de Van Allen.
+4,5 mars 1958,Explorer 2,États-Unis,Terre (orbiteur),Échec : anomalie du lanceur.
+5,17 mars 1958,Vanguard 1,États-Unis,Terre (orbiteur),Succès : durée de vie estimée à 240 ans. Étude du globe terrestre.
+6,26 mars 1958,Explorer 3,États-Unis,Terre (orbiteur),Succès : identique à Explorer 1
+7,15 mai 1958,Spoutnik 3,Union soviétique,Terre (orbiteur),Succès partiel : lancement réussi mais échec des expériences.
+8,26 juillet 1958,Explorer 4,États-Unis,Terre (orbiteur),Succès : étude de la ceinture intérieure de Van Allen. Participe à l'Opération Argus (premiers tests d'armes atomiques conduits dans l'espace).
+9,17 août 1958,Pioneer 0,États-Unis,Lune (orbiteur),Échec : explosion au décollage.
+10,24 août 1958,Explorer 5,États-Unis,Lune (orbiteur),Échec : anomalie lors de la mise en orbite.
+11,11 octobre 1958,Pioneer 1,États-Unis,Lune (orbiteur),Succès partiel : premier lancement réussi d'une sonde interplanétaire américaine mais n'atteint pas la Lune.
+12,8 novembre 1958,Pioneer 2,États-Unis,Lune (orbiteur),Échec : retombe sur terre après 43 heures dans l'espace.
+13,6 décembre 1958,Pioneer 3,États-Unis,Lune (survol),Échec : retombe sur terre après 38 heures dans l'espace.
+14,18 décembre 1958,SCORE,États-Unis,Terre (orbiteur),Succès : premier test d'un système de relai de communications dans l'espace. A diffusé un message de Noël enregistré sur un magnétophone embarqué.
+15,2 janvier 1959,Luna 1,Union soviétique,Lune (impacteur),Succès partiel : premier engin spatial à passer à proximité de la Lune. Première observation directe du vent solaire. Découvre l'absence de champ magnétique détectable à proximité de la Lune. Premier engin à quitter l'orbite terrestre pour rejoindre une orbite héliocentrique.
+16,17 février 1959,Vanguard 2,États-Unis,Terre (orbiteur),Succès partiel : premier satellite météorologique. Cependant les données optiques reçues ont été dégradées par une anomalie d'orientation.  Prévu pour orbiter pendant 300 ans.
+17,28 février 1959,Discoverer 1 (en),États-Unis,Terre (orbiteur),Succès
+18,3 mars 1959,Pioneer 4,États-Unis,Lune (orbiteur),"Echec : la sonde passa à plus de 60 000km de la Lune, survol raté."
+19,7 août 1959,Explorer 6,États-Unis,Terre (orbiteur),Succès : a transmis les premières photographies (partielles) de la Terre prise depuis l'orbite
+20,13 septembre 1959,Luna 2,Union soviétique,Lune (impacteur),Succès :  premier engin spatial à entrer en contact avec un autre corps céleste. Première sonde sur la Lune (impact)
+21,18 septembre 1959,Vanguard 3,États-Unis,Terre (orbiteur),"Succès : étude du champ magnétique terrestre, délimitation partielle de la ceinture de Van Allen"
+22,4 octobre 1959,Luna 3,Union soviétique,Lune (survol),Succès : premier engin spatial à transmettre des photographies de la face cachée de la Lune.
+23,13 octobre 1959,Explorer 7,États-Unis,Terre (orbiteur),Succès : premier satellite permettant l'étude du climat.
+24,11 mars 1960,Pioneer 5,États-Unis,Soleil (orbiteur),"Succès : exploration interplanétaire. Première carte du champ magnétique interplanétaire. Record, pour l'époque, de la transmission radio : 36 millions de km."
+25,1er avril 1960,TIROS-1,États-Unis,Terre (orbiteur),Succès : premier satellite météorologique pleinement opérationnel (22 952 photographies en 77 jours)
+26,13 avril 1960,Transit 1-B,États-Unis,Terre (orbiteur),Succès : premier redémarrage d'un moteur en orbite. Premier système de positionnement par satellites.
+27,15 mai 1960,Spoutnik 4,Union soviétique,Terre (orbiteur),Échec : désorbitation incorrecte
+28,24 mai 1960,MIDAS 2,États-Unis,Terre (orbiteur),"Succès : satellite d'alerte précoce, surveillance anti-missile, premier satellite en orbite du Projet MIDAS."
+29,22 juin 1960,GRAB 1,États-Unis,Terre (orbiteur),Succès : premier satellite de renseignement d'origine électromagnétique.
+30,11 août 1960,Discoverer 13,États-Unis,Terre (orbiteur),"Succès : satellite de reconnaissance, première récupération réussie d'une capsule éjectable après mise sur orbite, récupération en mer dans le pacifique."
+31,12 août 1960,Echo 1A,États-Unis,Terre (orbiteur),Succès : premier satellite de télécommunications. Relai de réflexion passif pour les communications radio.
+32,19 août 1960,Spoutnik 5,Union soviétique,Terre (orbiteur),Succès : premiers animaux à être récupérés vivants après une mise en orbite. (Belka et Strelka)
+33,13 septembre 1960,Discoverer 15,États-Unis,Terre (orbiteur),"Succès : satellite de reconnaissance, première récupération réussie par un avion d'une capsule éjectable après mise sur orbite."
+34,4 octobre 1960,Courier 1B,États-Unis,Terre (orbiteur),Succès : premier satellite de télécommunications capable de propager les signaux terrestres.
+35,10 octobre 1960,Mars 1960A,Union soviétique,Mars (survol),Échec : pas de mise en orbite terrestre.
+36,14 octobre 1960,Mars 1960B,Union soviétique,Mars (survol),Échec : pas de mise en orbite terrestre.
+37,1er décembre 1960,Spoutnik 6,Union soviétique,Terre (orbiteur),"Échec : explosion d'une charge explosive en vol, tuant les deux animaux qu'il transportait."
+38,20 décembre 1960,Discoverer 19,États-Unis,Terre (orbiteur),"Succès : satellite d'alerte précoce, Projet MIDAS."
+39,4 février 1961,Spoutnik 7,Union soviétique,Vénus (survol),Échec : première tentative soviétique  d'exploration de la planète Vénus. Aussi connu sous le nom Venera 1VA No.1
+40,12 février 1961,Venera 1,Union soviétique,Vénus (survol),Échec :  passage à 100 000 km de Vénus après perte de contact
+41,17 février 1961,Discoverer 20 (en),États-Unis,Terre (orbiteur),Succès : placement sur orbite d'une capsule de 1 100 kg
+42,12 avril 1961,Vostok 1,Union soviétique,Terre (orbiteur),Succès : premier vol spatial habité (Youri Gagarine)
+43,5 mai 1961,Mercury-Redstone 3,États-Unis,Terre (vol suborbital),Succès : premier vol habité américain (Alan Shepard)
+44,6 août 1961,Vostok 2,Union soviétique,Terre (orbiteur),Succès : vol spatial habité (Guerman Titov)
+45,18 février 1961,Discoverer 21 (en),États-Unis,Terre (orbiteur),Succès : test de redémarrage d'un moteur fusée dans l'espace.
+46,12 décembre 1961,OSCAR 1,États-Unis,Terre (orbiteur),"Succès : premier satellite lancé en charge secondaire, premier satellite réalisé par des entités non gouvernementales, premier satellite à destination des radioamateurs."
+47,26 janvier 1962,Ranger 3,États-Unis,Lune (impacteur),Échec : va au-delà de la Lune
+48,20 février 1962,Mercury 6,États-Unis,Terre (orbiteur),Succès : premier vol orbital d'un Américain (John Glenn)
+49,23 avril 1962,Ranger 4,États-Unis,Lune (impacteur),Échec : touche la face cachée de la Lune et ne peut envoyer de message. Premier engin spatial américain à entrer en contact avec un autre corps céleste.
+50,26 avril 1962,Ariel 1,Royaume-Uni,Terre (orbiteur),"Succès : premier satellite artificiel anglais. Premier satellite du programme Ariel.  Six expériences sont embarquées : trois portent sur l'étude de l'ionosphère, deux sur des mesures du rayonnement du Soleil et la dernière sur l'étude des rayons cosmiques."
+51,10 juillet 1962,Telstar 1,États-Unis,Terre (orbiteur),"Succès : premier satellite de télécommunications actif à relayer directement des communications intercontinentales, premier satellite financé par des fonds privés."
+52,22 juillet 1962,Mariner 1,États-Unis,Vénus (survol),Échec : explose sur le champ de tir
+53,11 août 1962,Vostok 3,Union soviétique,Terre (orbiteur),Succès : premières images en couleur de la Terre
+54,12 août 1962,Vostok 4,Union soviétique,Terre (orbiteur),"Succès : première fois que deux vaisseaux habités se retrouvent en orbite en même temps, première communication en orbite de vaisseau à vaisseau."
+55,27 août 1962,Mariner 2,États-Unis,Vénus (survol),Succès :  première sonde à survoler avec succès une autre planète. Bat le record de distance de communication. Premières observations de Vénus (14 décembre 1962).
+56,29 septembre 1962,Alouette 1,Canada,Terre (orbiteur),Succès : premier satellite canadien
+57,24 octobre 1962,Mars 1962A,Union soviétique,Mars (survol),Échec : explosion du lanceur
+58,18 octobre 1962,Ranger 5,États-Unis,Lune (impacteur),"Échec : malgré un passage à 720 km de la Lune, la sonde reste muette."
+59,1er novembre 1962,Mars 1,Union soviétique,Mars (survol),Échec
+60,4 novembre 1962,Mars 1962B,Union soviétique,Mars (atterrisseur),Échec : anomalie pendant la manœuvre d'injection vers Mars
+61,13 décembre 1962,Relay 1,États-Unis,Terre (orbiteur),Succès : premier satellite à diffuser des émissions de télévision des États-Unis vers le Japon. La première diffusion devait être un discours pré-enregistré du président des États-Unis. À la place ce fut l'annonce de la mort de John Fitzgerald Kennedy.
+62,14 février 1963,Syncom 1,États-Unis,Terre (orbiteur),Échec : première tentative de mise sur orbite géosynchrone d'un satellite de télécommunications
+63,2 avril 1963,Luna 4,Union soviétique,Lune (atterrisseur),"Échec partiel : première tentative d’atterrissage sur la Lune, utilisé en tant que sonde"
+64,15 mai 1963,Mercury-Atlas 9,États-Unis,Terre (orbiteur),"Succès : dernier vol habité du programme Mercury, premier américain dans l'espace pendant plus de 24 heures"
+65,14 juin 1963,Vostok 5,Union soviétique,Terre (orbiteur),Succès : vol habité de 5 jours (Valeri Bykovski)
+66,16 juin 1963,Vostok 6,Union soviétique,Terre (orbiteur),"Succès :  première femme dans l'espace, la cosmonaute soviétique Valentina Terechkova"
+67,26 juillet 1963,Syncom 2,États-Unis,Terre (orbiteur),Succès : premier satellite de télécommunications placé sur une orbite géosynchrone inclinée. A relayé le premier appel téléphonique via satellite entre chefs d'État.
+68,1er novembre 1963,Polyot 1,Union soviétique,Terre (orbiteur),Succès : Satellite anti-satellite (test)
+69,21 janvier 1964,Relay 2,États-Unis,Terre (orbiteur),Succès : télécommunications
+70,30 janvier 1964,Ranger 6,États-Unis,Lune (impacteur),Succès partiel : impact réussi mais une panne des caméras empêche la transmission d'images de la surface lunaire.
+71,30 janvier 1964,Elektron 1 et 2,Union soviétique,Terre (orbiteur),Succès : étude de la ceinture de Van Allen
+72,2 avril 1964,Zond 1,Union soviétique,Vénus (survol),Échec partiel : communication perdue avec l'appareil le 14 mai 1964. Deuxième sonde soviétique à atteindre Vénus.
+73,28 juillet 1964,Ranger 7,États-Unis,Lune (impacteur),Succès : premier vol entièrement réussi du programme Ranger. Première sonde  américaine à transmettre avec succès des images proches de la surface lunaire vers la Terre
+74,19 août 1964,Syncom 3,États-Unis,Terre (orbiteur),Succès : premier satellite placé en orbite géostationnaire
+75,28 août 1964,Nimbus 1,États-Unis,Terre (orbiteur),Succès : deuxième génération de satellites météorologiques. Ce programme mit en évidence le trou dans la couche d'ozone en cours de formation au-dessus des zones polaires
+76,5 septembre 1964,OGO 1,États-Unis,Terre (orbiteur),Succès : étude de la magnétosphère et des intéractions entre la Terre et le Soleil
+77,12 octobre 1964,Voskhod 1,Union soviétique,Terre (orbiteur),"Succès :  premier vol spatial à emmener plus d'une personne dans l'espace, et premier vol sans combinaisons spatiales"
+78,5 novembre 1964,Mariner 3,États-Unis,Mars (survol),Échec
+79,28 novembre 1964,Mariner 4,États-Unis,Mars (survol),"Succès : premier survol de la planète Mars, envoya les premières images de la surface martienne et par là même les premières images rapprochées d'une autre planète"
+80,30 novembre 1964,Zond 2,Union soviétique,Mars (survol),Échec partiel : passe à 1 500 km de Mars après la perte des communications. Permit de valider l'usage des moteurs ioniques qui auront fonctionné correctement dans des conditions réelles durant 70 minutes.
+81,15 décembre 1964,San Marco 1,Italie,Terre (orbiteur),Succès  : premier satellite artificiel italien. Premier satellite du programme San Marco.
+82,16 février 1965,Pegasus 1,États-Unis,Terre (orbiteur),Succès :  évaluation du danger représenté par les micrométéorites pour les engins spatiaux circulant en orbite basse
+83,17 février 1965,Ranger 8,États-Unis,Lune (impacteur),Succès : a pris plus de 7 000 photographies de la Lune pendant son entrée en orbite et sa chute vers le sol lunaire le 20 février 1965.
+84,18 mars 1965,Voskhod 2,Union soviétique,Terre (orbiteur),Succès : première sortie extravéhiculaire jamais réalisée par un homme (Alexeï Leonov).
+85,23 mars 1965,Gemini 3,États-Unis,Terre (orbiteur),Succès :  première mission habitée du programme Gemini.
+86,6 avril 1965,Early Bird,États-Unis,Terre (orbiteur),Succès : premier satellite de télécommunications commercial à avoir été placé en orbite géosynchrone.
+87,23 avril 1965,Molniya-1,Union soviétique,Terre (orbiteur),Succès : satellite de télécommunications à usage militaire.
+88,3 juin 1965,Gemini 4,États-Unis,Terre (orbiteur),Succès : première sortie extravéhiculaire américaine (Edward White).
+89,16 juillet 1965,Proton 1,Union soviétique,Terre (orbiteur),Succès : étude des particules de haute énergie
+90,18 juillet 1965,Zond 3,Union soviétique,Lune (survol),"Succès : photographies de la Lune, premier vaisseau de ce programme à réussir sa mission."
+91,21 août 1965,Gemini 5,États-Unis,Terre (orbiteur),Succès : démonstration qu'un équipage peut rester dans l'espace pour une durée équivalente à l'aller-retour Terre-Lune.
+92,16 novembre 1965,Venera 3,Union soviétique,Vénus (atterrisseur),"Échec partiel : premier engin spatial à entrer en contact avec une autre planète, le 1er mars 1966. Devait se poser sur Vénus mais à la suite de la perte des communications avant le survol la sonde s'écrasa."
+93,26 novembre 1965,Astérix,France,Terre (orbiteur),Succès : premier satellite artificiel français. Lancé par une fusée Diamant-A depuis le Centre Interarmées d'Essais d'Engins Spéciaux d'Hammaguir en Algérie. La France devient la troisième puissance spatiale.
+94,27 novembre 1965,Alouette 2,Canada,Terre (orbiteur),"Succès : deuxième satellite canadien, étude de l'ionosphère."
+95,3 décembre 1965,Luna 8,Union soviétique,Lune (atterrisseur),Échec : la sonde s'écrase sur la Lune.
+96,15 décembre 1965,Gemini 7,États-Unis,Terre (orbiteur),Succès : premier rendez vous habité réussi le 15 décembre 1965 avec Gemini 6A.
+97,16 décembre 1965,Pioneer 6,États-Unis,Soleil (orbiteur),"Succès :  étude de l'espace interplanétaire, en particulier le vent solaire et les rayons cosmiques. Resté contactable jusqu'en décembre 2000."
+98,31 janvier 1966,Luna 9,Union soviétique,Lune (atterrisseur),Succès : premier atterrissage en douceur sur la Lune. Premières images depuis la surface de la Lune
+99,17 février 1966,Diapason,France,Terre (orbiteur),"Succès :  mission scientifique de géodésie, par mesure d'effet Doppler. A fonctionné pendant 5 ans."
+100,22 février 1966,Cosmos 110 (en),Union soviétique,Terre (orbiteur),"Succès : mission de recherche médicale sur des chiens (Veterok et Ougolyok), 22 jours en orbite."
+101,16 mars 1966,Gemini 8,États-Unis,Terre (orbiteur),Succès partiel : la mission connut un grave incident maitrisé par le commandant de bord (Neil Armstrong).
+102,31 mars 1966,Luna 10,Union soviétique,Lune (orbiteur),"Succès : premier satellite artificiel de la Lune. Premier appareil à se placer en orbite autour d'un autre corps céleste que la Terre, le 3 avril 1966."
+103,25 avril 1966,Molniya 1C,Union soviétique,Terre (orbiteur),Succès : première génération de satellite de télécommunications russe. Destiné à tester les communications et la télévision par satellite.
+104,30 mai 1966,Surveyor 1,États-Unis,Lune (atterrisseur),Succès : premier atterrissage en douceur  réussi par une sonde américaine sur la Lune.
+105,3 juin 1966,Gemini 9,États-Unis,Terre (orbiteur),"Succès : vol spatial habité, sortie extra-véhiculaire aidée d'un prototype de Manned Maneuvering Unit."
+106,6 juillet 1966,Proton 3,Union soviétique,Terre (orbiteur),Succès : étude des particules de haute énergie
+107,10 août 1966,Lunar Orbiter 1,États-Unis,Lune (orbiteur),Succès : cartographie du sol de la Lune afin de repérer les zones d'atterrissage des vaisseaux du programme Apollo et compléter le travail effectué par les sondes Surveyor et Ranger.  99 % de la surface de la Lune fut cartographiée au cours du programme.
+108,12 septembre 1966,Gemini 11,États-Unis,Terre (orbiteur),"Succès :  vol spatial habité, établit un record d'altitude pour un vol habité, expérience de gravité artificielle."
+109,20 septembre 1966,Surveyor 2,États-Unis,Lune (atterrisseur),Échec : s'écrase sur la Lune
+110,22 octobre 1966,Luna 12,Union soviétique,Lune (orbiteur),Succès : transmission de photos
+111,21 décembre 1966,Luna 13,Union soviétique,Lune (atterrisseur),Succès : transmission de photos et analyses.
+112,5 février 1967,Lunar Orbiter 3,États-Unis,Lune (orbiteur),Succès : cartographie du sol de la Lune afin de repérer les zones d'atterrissage des vaisseaux du programme Apollo et compléter le travail effectué par les sondes Surveyor et Ranger.  99 % de la surface de la Lune fut cartographiée au cours du programme.
+113,8 février 1967,Diadème D1C,France,Terre (orbiteur),Succès : satellite de géodésie.
+114,8 mars 1967,OSO-3,États-Unis,Soleil (orbiteur),"Succès : observatoire spatial, découvre les émissions de rayons gamma du plan de la Voie lactée"
+115,17 avril 1967,Surveyor 3,États-Unis,Lune (atterrisseur),"Succès : a renvoyé 6 315 images, le site de Surveyor 3 a été choisi pour la mission Apollo 12. Plusieurs composants de la sonde ont été ramenés sur Terre pour étudier les effets d'une exposition au long terme à l'environnement lunaire des équipements."
+116,12 juin 1967,Venera 4,Union soviétique,Vénus (survol et sonde atmosphérique),Succès :  première sonde à renvoyer des données depuis l'atmosphère de Vénus. Arrêt de transmission des données à 24 km d'altitude.
+117,14 juin 1967,Mariner 5,États-Unis,Vénus (survol),Succès : fournit grâce à une expérience d'occultation des signaux radio un aperçu de la composition chimique de l'atmosphère.
+118,27 octobre 1967,Cosmos 186,Union soviétique,Terre (orbiteur),Succès : premier rendez-vous spatial avec amarrage entièrement automatisé sans équipage. Réalisé le 30 octobre 1967 par Cosmos 186 et Cosmos 188.
+119,5 novembre 1967,ATS-3,États-Unis,Terre (orbiteur),Succès : satellite météorologique en orbite géostationnaire. A transmis la première image en couleur du globe terrestre complet prise depuis une orbite géostationnaire.
+120,7 novembre 1967,Surveyor 6,États-Unis,Lune (atterrisseur),"Succès : étude de la Lune, premier appareil à décoller depuis la surface lunaire le 17 novembre 1967 (saut de 2,4 mètres). L'utilisation du moteur vernier fournit de précieuses informations sur le comportement des moteurs fusée sur la Lune."
+121,29 novembre 1967,WRESAT (en),Australie,Terre (orbiteur),Succès : premier satellite artificiel australien. Satellite scientifique.
+122,7 janvier 1968,Surveyor 7,États-Unis,Lune (atterrisseur),Succès : a transmis 21 091 images de la Lune. Dernier atterrisseur du programme Surveyor.
+123,16 janvier 1968,Zenit-2 No. 59,Union soviétique,Terre (orbiteur),Succès : satellite de reconnaissance optique.
+124,2 mars 1968,Transit-O-18,États-Unis,Terre (orbiteur),Succès : système de navigation par satellites développé pour la marine américaine.
+125,7 avril 1968,Luna 14,Union soviétique,Lune (orbiteur),Succès : étude des réplétions de la Lune.
+126,14 septembre 1968,Zond 5,Union soviétique,Lune (survol),Succès : première mission de survol de la Lune puis de retour sur Terre réussie. Précurseur à un programme de vol habité vers la Lune.
+127,7 décembre 1968,OAO-2,États-Unis,Terre (orbiteur),Succès : satellite d'astronomie en ultraviolet.
+128,21 décembre 1968,Apollo 8,États-Unis,Lune (orbiteur),Succès : premier vol spatial habité en orbite autour de la Lune
+129,30 janvier 1969,ISIS-I,Canada,Terre (orbiteur),Succès : étude de la ionosphère.
+130,5 janvier 1969,Venera 5,Union soviétique,Vénus (sonde atmosphérique),Succès : étude de l'atmosphère de Vénus par largage d'une sonde atmosphérique de 405 kg.
+131,10 janvier 1969,Venera 6,Union soviétique,Vénus (sonde atmosphérique),Succès : étude de l'atmosphère de Vénus par largage d'une sonde atmosphérique de 405 kg.
+132,18 mai 1969,Apollo 10,États-Unis,Lune (orbiteur),"Succès : deuxième vol habité à approcher la Lune. Préparation de l'alunissage d'Apollo 11, première diffusion télévisée en couleur et en direct depuis l'espace."
+133,13 juillet 1969,Luna 15,Union soviétique,Lune (atterrisseur),Échec : mission automatisée de retour d'échantillons. S'écrase sur la Lune le 21 juillet 1969
+134,16 juillet 1969,Apollo 11,États-Unis,Lune (atterrisseur),"Succès : premier homme sur la Lune (Neil Armstrong) le 21 juillet 1969. Installation d'instruments scientifiques, collecte de 21,7 kg de roche et de sol lunaire."
+135,7 août 1969,Zond 7,Union soviétique,Lune (survol),Succès : mission photographique et retour sur Terre. Version non habitée de Soyouz 7K-L1.
+136,8 novembre 1969,Azur,RFA,Terre (orbiteur),Succès : premier satellite artificiel allemand. Satellite scientifique.
+137,14 novembre 1969,Apollo 12,États-Unis,Lune (atterrisseur),"Succès : deuxième mission habitée sur la Lune le 19 novembre 1969. Installation d'instruments scientifiques, collecte de 34 kg de roche et de sol lunaire."
+138,24 février 1969,Mariner 6,États-Unis,Mars (survol),Succès : étude de Mars
+139,27 mars 1969,Mariner 7,États-Unis,Mars (survol),Succès : étude de Mars réussie malgré l'explosion d'une batterie.
+140,11 février 1970,Ōsumi,Japon,Terre (orbiteur),Succès : premier satellite artificiel japonais. Lancé par une fusée  Lambda depuis la base de lancement d'Uchinoura au Sud du Japon. Le Japon devient la quatrième puissance spatiale.
+141,11 avril 1970,Apollo 13,États-Unis,Lune (atterrisseur),Échec partiel : mission interrompue à la suite de l'explosion d'un réservoir d'oxygène du module de service Apollo. L'équipage put être récupéré sain et sauf.
+142,24 avril 1970,Dong Fang Hong I,Chine,Terre (orbiteur),Succès : premier satellite artificiel Chinois. Lancé par une fusée Longue Marche 1 depuis la base de lancement de Jiuquan en  Mongolie-Intérieure . La Chine devient la cinquième puissance spatiale.
+143,17 août 1970,Venera 7,Union soviétique,Vénus (atterrisseur),Succès : première sonde spatiale à atterrir sur une autre planète et à transmettre des données vers la Terre le 15 décembre 1970.
+144,12 septembre 1970,Luna 16,Union soviétique,Lune (atterrisseur),Succès : première mission de retour d'échantillon entièrement automatisée réussie. Collecte de 101 grammes de sol lunaire.
+145,20 octobre 1970,Zond 8,Union soviétique,Lune (survol),Succès : mission photographique et retour sur Terre. Version non habitée de Soyouz 7K-L1.
+146,10 novembre 1970,Luna 17,Union soviétique,Lune (atterrisseur),"Succès : premier robot téléguidé depuis la Terre à se poser sur un sol extra-terrestre. Lunokhod 1 a  parcouru 10,5 km, pris 20 000 photos, 206 panoramiques, effectué 25 analyses et 500 tests de dureté du sol."
+147,12 décembre 1970,Uhuru,États-Unis,Terre (orbiteur),Succès : premier satellite d'astronomie en rayons X.  A été à l'origine de plusieurs grandes avancées scientifiques.
+148,31 janvier 1971,Apollo 14,États-Unis,Lune (atterrisseur),"Succès : troisième mission habitée sur la Lune le 5 février 1971. Commandée par Alan Shepard. Installation d'instruments scientifiques, exploration géologique, collecte de 43 kg de roche et de sol lunaire."
+149,19 avril 1971,Saliout 1,Union soviétique,Terre (orbiteur),Succès : première station spatiale en orbite terrestre.  175 jours en orbite dont 24 habités.
+150,9 mai 1971,Mariner 8,États-Unis,Mars (survol),Échec : anomalie lors du lancement.
+151,10 mai 1971,Cosmos 419,Union soviétique,Mars (orbiteur),Échec : retombe sur Terre après deux jours.
+152,19 mai 1971,Mars 2,Union soviétique,Mars (atterrisseur et orbiteur),Échec partiel : premier engin terrestre à avoir touché Mars.
+153,28 mai 1971,Mars 3,Union soviétique,Mars (atterrisseur et orbiteur),"Succès :  premier engin terrestre à avoir atterri en douceur sur Mars, le 2 décembre 1971."
+154,30 mai 1971,Mariner 9,États-Unis,Mars (orbiteur),"Succès : découvrit le plus grand volcan du système solaire Olympus Mons, l'énorme canyon Valles Marineris nommé en l'honneur de la réussite de Mariner 9, premières photographies des satellites naturels de Mars, Phobos et Déimos."
+155,26 juillet 1971,Apollo 15,États-Unis,Lune (atterrisseur),"Succès : quatrième mission habitée sur la Lune le 30 juillet 1971. Installation d'instruments scientifiques, exploration géologique, collecte de 77 kg de roche et de sol lunaire. Première utilisation du rover lunaire."
+156,16 août 1971,Eole-Cas-A,France États-Unis Argentine,Terre (orbiteur),Succès :  est à l'origine du système de localisation et collecte de données Argos. Collecte de données (météorologie dynamique).
+157,2 septembre 1971,Luna 18,Union soviétique,Lune (atterrisseur),Échec : mission de retour d'échantillon entièrement automatisée. S'écrase sur la Lune.
+158,28 septembre 1971,Luna 19,Union soviétique,Lune (orbiteur),"Succès : mission photographique, étude de la Lune."
+159,28 octobre 1971,Prospero X-3,Royaume-Uni,Terre (orbiteur),Succès : premier satellite artificiel britannique lancé par une fusée britannique Black Arrow depuis la base de lancement de Woomera en Australie. Le Royaume-Uni devient la sixième puissance spatiale.
+160,14 février 1972,Luna 20,Union soviétique,Lune (atterrisseur),Succès : mission de retour d'échantillon entièrement automatisée réussie. Collecte de 55 grammes de sol lunaire.
+161,27 mars 1972,Venera 8,Union soviétique,Vénus (atterrisseur),Succès : s'est posé à la surface de Vénus le 22 juillet 1972.
+162,16 avril 1972,Apollo 16,États-Unis,Lune (atterrisseur),"Succès : cinquième mission habitée sur la Lune le 21 avril 1972. Installation d'instruments scientifiques, exploration géologique, collecte de 95,8 kg de roche et de sol lunaire."
+163,21 août 1972,Copernicus (OAO-3),États-Unis,Terre (orbiteur),"Succès : satellite d'astronomie en rayons X et d'astronomie en ultraviolet. A fourni 551 spectres d'objets célestes, principalement des étoiles brillantes."
+164,10 novembre 1972,Anik A1,Canada,Terre (orbiteur),Succès : premier satellite de télécommunications domestiques en orbite géostationnaire. Premier satellite non militaire à être placé en orbite géostationnaire
+165,7 décembre 1972,Apollo 17,États-Unis,Lune (atterrisseur),"Succès : sixième mission habitée sur la Lune le 11 décembre 1972. Premier scientifique sur la Lune (Harrison Schmitt). Installation d'instruments scientifiques, exploration géologique, collecte de 110 kg de roche et de sol lunaire."
+166,8 janvier 1973,Luna 21,Union soviétique,Lune (atterrisseur),"Succès : deuxième robot téléguidé depuis la Terre à se poser sur un sol extra-terrestre. Lunokhod 2 a parcouru 42 km, effectué 80 000 photos, 86 panoramiques, effectué des expériences scientifiques."
+167,4 avril 1973,Saliout 2,Union soviétique,Terre (orbiteur),"Échec : était en fait OPS-1, station spatiale militaire lancée sous le couvert du programme Saliout. Anomalie peu de temps après le lancement."
+168,14 mai 1973,Skylab,États-Unis,Terre (orbiteur),"Succès : première station spatiale lancée par la NASA, se désintègre en rentrant dans l'atmosphère le 11 juillet 1979 après avoir rempli ses objectifs et 171 jours d'occupation humaine."
+169,10 juin 1973,Explorer 49,États-Unis,Lune (orbiteur),Succès : satellite de radioastronomie en basse fréquence. Comporte 4 antennes de 230 mètres de long. Dernière mission américaine vers la Lune avant 1994.
+170,21 juin 1973,Mars 4,Union soviétique,Mars (orbiteur),Échec : anomalie lors de l'insertion orbitale.
+171,25 juillet 1973,Mars 5,Union soviétique,Mars (orbiteur),Succès : étude de Mars. A détecté la couche d'ozone martienne.
+172,5 août 1973,Mars 6,Union soviétique,Mars (atterrisseur),Échec partiel : l'atterrisseur a renvoyé des données lors de sa descente avant de s'écraser.
+173,3 novembre 1973,Mariner 10,États-Unis,Vénus (survol)  Mercure (survol),"Succès :  première sonde à avoir effectué un survol de Mercure le 29 mars 1974, première sonde à avoir utilisé l'assistance gravitationnelle d'une planète pour modifier sa trajectoire, première sonde à exploiter le principe de la voile solaire."
+174,13 avril 1974,Westar 1,États-Unis,Terre (orbiteur),Succès : premier satellite de télécommunications intérieures des États-Unis.
+175,29 mai 1974,Luna 22,Union soviétique,Lune (orbiteur),Succès : photographies haute résolution de la Lune
+176,30 mai 1974,ATS-6,États-Unis,Terre (orbiteur),"Succès : premier satellite géostationnaire stabilisé 3 axes, destiné à diffuser la télévision par satellite dans le cadre du Satellite Instructional Television Experiment (en) en partenariat avec l'Inde."
+177,25 juin 1974,Saliout 3,Union soviétique,Terre (orbiteur),"Succès : était en fait OPS-2, station spatiale militaire lancée sous le couvert du programme Saliout.  Habitée pendant 15 jours, a conduit avec succès un test de tir sur un satellite cible avec un canon."
+178,30 août 1974,ANS,Pays-Bas,Terre (orbiteur),Succès : premier satellite artificiel hollandais. Observatoire spatial du rayonnement X et ultraviolet.
+179,15 octobre 1974,Ariel V,États-Unis Royaume-Uni,Terre (orbiteur),Succès : satellite d'astronomie en rayons X.
+180,15 novembre 1974,INTASAT,Espagne,Terre (orbiteur),Succès : premier satellite artificiel espagnol. Étude de l'ionosphère.
+181,10 décembre 1974,Helios 1,États-Unis RFA,Soleil (orbiteur),Succès : étude du Soleil
+182,19 décembre 1974,Symphonie,France RFA États-Unis,Terre (Géostationnaire),"Succès: premier satellite de télécommunication réalisé en France et en Europe, stabilisé trois-axes en orbite géostationnaire à système de propulsion biergol."
+183,19 avril 1975,Aryabhata,Inde,Terre (orbiteur),"Succès : premier satellite artificiel indien, de construction indienne, lancé par une fusée soviétique."
+184,8 juin 1975,Venera 9,Union soviétique,Vénus (orbiteur et atterrisseur),"Succès : première photo renvoyée par une sonde depuis la surface d'une autre planète, le  20 octobre 1975."
+185,14 juin 1975,Venera 10,Union soviétique,Vénus (orbiteur et atterrisseur),"Succès : atterrit à la surface de Vénus et renvoie des images, le 25 octobre 1975."
+186,15 juillet 1975,Apollo-Soyouz,États-Unis Union soviétique,Terre (orbiteur),"Succès : vol spatial habité, événement historique précurseur, première mission spatiale conjointe entre l'Union soviétique et les États-Unis après qu'ils se furent affrontés pendant la course à la Lune."
+187,20 août 1975,Viking 1,États-Unis,Mars (orbiteur et atterrisseur),"Succès : deuxième atterrissage en douceur d'une sonde sur Mars le 23 juillet 1976, première photo transmise depuis la surface de Mars. A continué à fournir des données météorologiques jusqu'en novembre 1982."
+188,9 septembre 1975,Viking 2,États-Unis,Mars (orbiteur et atterrisseur),Succès : atterrissage réussi le 23 septembre 1976. A continué à fonctionner jusqu'en avril 1980.
+189,12 décembre 1975,Satcom 1,États-Unis,Terre (orbiteur),"Succès : satellite de télécommunications, fut à l'origine du succès des chaînes câblées américaines comme WTBS, HBO, CBN, The Weather Channel, etc. en permettant à ces dernières d'atteindre par satellite les têtes de tous les réseaux locaux de télévision par câble."
+190,15 janvier 1976,Helios 2,États-Unis RFA,Soleil (orbiteur),"Succès : record de vitesse pour une sonde (70,2 km/s), plus proche survol du Soleil jamais effectué (0.29 AU), étude du Soleil."
+191,17 janvier 1976,Hermes,États-Unis Canada Europe,Terre (orbiteur),Succès : test de faisabilité de la télévision par satellite.
+192,8 juillet 1976,Palapa-A1,Indonésie,Terre (orbiteur),Succès : premier satellite artificiel indonésien. Satellite de télécommunications.
+193,9 août 1976,Luna 24,Union soviétique,Lune (atterrisseur),Succès : mission de retour d'échantillon entièrement automatisée réussie. Collecte de 170 grammes de sol lunaire.
+194,12 août 1977,HEAO-1,États-Unis,Terre (orbiteur),Succès : satellite d'astronomie en rayons X. Observation intégrale du ciel au cours de la mission.
+195,20 août 1977,Voyager 2,États-Unis,"Jupiter, Saturne, Uranus, Neptune (survol)",Succès : seul engin spatial à avoir survolé Uranus et Neptune
+196,5 septembre 1977,Voyager 1,États-Unis,"Jupiter, Saturne (survol)","Succès : première observation des anneaux de Jupiter, la découverte du volcanisme d'Io, la structure étrange de la surface d'Europe, la composition de l'atmosphère de Titan, la structure inattendue des anneaux de Saturne ainsi que la découverte de plusieurs petites lunes de Jupiter et de Saturne."
+197,23 novembre 1977,Meteosat 1,Europe,Terre (orbiteur),"Succès : satellite météorologique, contribution de l'ESA au programme GARP."
+198,26 janvier 1978,International Ultraviolet Explorer,États-Unis Europe,Terre (orbiteur),"Succès : satellite  d'astronomie en ultraviolet. Résultats scientifiques relatifs à la composition chimique des étoiles, des galaxies, des quasars et des corps célestes du système solaire."
+199,22 février 1978,Navstar 1,États-Unis,Terre (orbiteur),Succès : premier satellite du système de positionnement par satellites américain GPS. Satellite de démonstration destiné à prouver la faisabilité du système.
+200,20 mai 1978,Pioneer Vénus 1,États-Unis,Vénus (orbiteur),"Succès : étude de Vénus, a continué à fonctionner jusqu'en octobre 1992."
+201,8 août 1978,Pioneer Vénus 2,États-Unis,Vénus (orbiteur et sonde atmosphérique),"Succès : étude de Vénus, a largué 3 sondes atmosphériques."
+202,9 septembre 1978,Venera 11,Union soviétique,Vénus (survol et atterrisseur),"Succès partiel : atterrissage réussi le 25 décembre 1978, perte de 2 instruments."
+203,14 septembre 1978,Venera 12,Union soviétique,Vénus (survol et atterrisseur),Succès : atterrissage le 21 décembre 1978.
+204,24 octobre 1978,Magion 1,Tchécoslovaquie,Terre (orbiteur),Succès : premier satellite artificiel tchécoslovaque. Etude de l'ionosphère.
+205,12 novembre 1978,HEAO-2,États-Unis,Terre (orbiteur),"Succès : satellite d'astronomie en rayons X, premier satellite capable de photographier des objets entiers. Son télescope wolter était des centaines de fois plus sensible que les précédents instruments embarqués."
+206,21 février 1979,Hakucho,Japon,Terre (orbiteur),Succès : premier télescope spatial d'astronomie en rayons X japonais.
+207,2 juin 1979,Ariel VI,États-Unis Royaume-Uni,Terre (orbiteur),"Succès : satellite d'astronomie en rayons X, étude des rayons cosmiques."
+208,20 septembre 1979,HEAO-3,États-Unis,Terre (orbiteur),Succès : satellite d'astronomie en rayons X.
+209,14 février 1980,Solar Maximum Mission,États-Unis,Terre (orbiteur),"Succès : étude du Soleil, premier satellite réparé en orbite par un équipage de la navette spatiale américaine (STS-41-C)."
+210,18 juillet 1980,Rohini 1B,Inde,Terre (orbiteur),Succès : premier satellite artificiel Indien lancé par une fusée Indienne SLV-3 depuis le centre spatial Satish-Dhawan. L'Inde devient la septième puissance spatiale.
+211,12 avril 1981,STS-1,États-Unis,Terre (orbiteur),Succès : premier vol de la Navette spatiale américaine.
+212,30 octobre 1981,Venera 13,Union soviétique,Vénus (survol et atterrisseur),Succès : renvoi des premières photographies couleurs de la surface de Vénus.
+213,4 novembre 1981,Venera 14,Union soviétique,Vénus (survol et atterrisseur),Succès
+214,19 juin 1981,APPLE,Inde,Terre (orbiteur),Succès : premier satellite de télécommunications en orbite géostationnaire indien. Premières mises en orbite réalisées par Ariane 1 lors du vol L-03.
+215,7 août 1981,IK Bulgaria 1300,Bulgarie,Terre (orbiteur),Succès : premier satellite artificiel bulgare. Lancé dans le cadre du programme Intercosmos
+216,10 septembre 1982,SIRIO 2,Italie,Terre (orbiteur),"Échec : premier vol commercial d'Ariane 1. Arrêt des moteurs du troisième étage, les satellites retombent sur Terre."
+217,11 novembre 1982,SBS 3,États-Unis,Terre (orbiteur),Succès : premier satellite de télécommunications placé en orbite par la navette spatiale américaine (STS-5).
+218,25 janvier 1983,IRAS,États-Unis Royaume-Uni  Pays-Bas,Terre (orbiteur),"Succès : satellite d'astronomie infrarouge, a réalisé une cartographie complète du ciel dans le domaine de l'infrarouge. A fourni les premières images du centre galactique."
+219,20 février 1983,ASTRO-B,Japon,Terre (orbiteur),"Succès : satellite d'astronomie en rayons X, a découvert la raie spectrale du fer dans plusieurs classes de sources X."
+220,26 mai 1983,EXOSAT,Europe,Terre (orbiteur),Succès : satellite d'astronomie en rayons X
+221,2 juin 1983,Venera 15,Union soviétique,Vénus (orbiteur),Succès : cartographie de Vénus
+222,7 juin 1983,Venera 16,Union soviétique,Vénus (orbiteur),Succès : cartographie de Vénus
+223,10 août 1983,Cosmos 1490,Union soviétique,Terre (orbiteur),Succès : premier satellite du système de positionnement par satellites russe GLONASS. Satellite de démonstration destiné à tester les composants du système.
+224,3 février 1984,Westar 6,États-Unis,Terre (orbiteur),"Échec : satellite de télécommunications lancé par la navette spatiale Challenger (STS-41-B), ne put atteindre l’orbite géostationnaire par suite d’une défaillance de son propulseur d’appoint. Récupéré le 16 novembre 1984 par la navette spatiale Discovery (STS-51-A) il fut ramené sur Terre, revendu et relancé sous le nom AsiaSat 1."
+225,15 décembre 1984,Vega 1,Union soviétique,Vénus (survol et atterrisseur)1P/Halley (survol),"Succès : envoi d'un ballon sonde et d'un atterrisseur sur Vénus, étude de la Comète de Halley."
+226,21 décembre 1984,Vega 2,Union soviétique,Vénus (survol et atterrisseur)1P/Halley (survol),"Succès : envoi d'un ballon sonde et d'un atterrisseur sur Vénus, étude de la Comète de Halley."
+227,7 janvier 1985,Sakigake,Japon,1P/Halley (survol),"Succès : première sonde interplanétaire japonaise, survol de la comète de Halley"
+228,8 février 1985,Arabsat-1A,Arabie saoudite,Terre (orbiteur),Succès : premier satellite artificiel saoudien. Satellite de télécommunications.
+229,8 février 1985,Brazilsat 1,Brésil,Terre (orbiteur),Succès : premier satellite artificiel brésilien. Satellite de télécommunications.
+230,17 juin 1985,Morelos-A,Mexique,Terre (orbiteur),Succès : premier satellite artificiel mexicain. Satellite de télécommunications.
+231,2 juillet 1985,Giotto,Europe,1P/Halley (survol)26P/Grigg-Skjellerup (survol),"Succès : première mission spatiale européenne en espace lointain, premières photographies rapprochées d'un noyau cométaire (1P/Halley), première sonde à être réactivée après avoir été placée en sommeil, a trouvé des traces de matière organique dans le noyau cométaire"
+232,20 février 1986,Mir,Union soviétique,Terre (orbiteur),"Succès : première station spatiale modulaire. A servi de laboratoire de recherche en micropesanteur dans lequel les équipes ont mené des expériences en biologie, biologie humaine, physique, astronomie, météorologie et sur les systèmes spatiaux afin de développer les technologies nécessaires à l'occupation permanente de l'espace. A permis le plus long vol spatial d'un être humain sans interruption (437 jours, Valeri Polyakov). Détruite volontairement le 23 mars 2001."
+233,22 février 1986,Viking,Suède,Terre (orbiteur),"Succès : premier satellite artificiel suédois, a permis de reconstituer l'ensemble du cycle de vie des aurores boréales."
+234,22 février 1986,SPOT 1,France,Terre (orbiteur),Succès : satellite de télédétection français civil d’observation de la Terre développé par le CNES. La résolution des images panchromatiques est de 10 mètres. Lancé lors du dernier vol d'Ariane 1.
+235,5 février 1987,Ginga,Japon,Terre (orbiteur),"Succès : satellite d'astronomie en rayons X, découverte de plusieurs candidats trous noirs et étude de leurs caractéristiques spectrales."
+236,7 juillet 1988,Phobos 1,Union soviétique,Mars (orbiteur)Phobos (atterrisseur),Échec :  perte brutale des communications le 2 septembre 1988.
+237,12 juillet 1988,Phobos 2,Union soviétique,Mars (orbiteur)Phobos (atterrisseur),"Succès partiel : a étudié Mars et le Soleil, perte brutale des communications avant le survol de Phobos."
+238,19 septembre 1988,Ofek-1,Israël,Terre (orbiteur),Succès : premier satellite artificiel Israélien lancé par une fusée Shavit depuis la base aérienne de Palmachim. Israël devient la huitième puissance spatiale.
+239,11 décembre 1988,Astra 1A,Luxembourg,Terre (orbiteur),Succès : premier satellite artificiel luxembourgeois. Satellite de télécommunications.
+240,4 mai 1989,Magellan,États-Unis,Vénus (orbiteur),Succès : sonde spatiale interplanétaire qui a réalisé la première carte détaillée de la surface de Vénus.
+241,8 août 1989,Hipparcos,Europe,Terre (orbiteur),"Succès : satellite d'astrométrie, mesure de la position, de la parallaxe et du mouvement propre des étoiles. Les résultats ont permis de produire trois catalogues d'étoiles."
+242,18 octobre 1989,Galileo,États-Unis,"Jupiter (survols, orbiteur et sonde atmosphérique)","Succès : lancé par la navette spatiale Atlantis. Premier engin spatial à survoler un astéroïde (Gaspra), enregistre la collision de la comète Shoemaker-Levy 9 avec Jupiter. Étude de l'atmosphère de Jupiter et largage d'une sonde atmosphérique en 1995."
+243,18 novembre 1989,COBE,États-Unis,Terre (orbiteur),Succès : satellite scientifique ayant effectué une cartographie du fond diffus cosmologique. A permis  de confirmer la nature thermique du rayonnement cosmologique et la mesure précise de la plupart des paramètres cosmologiques et l'émergence de ce qui est aujourd'hui (2006) appelé le modèle standard de la cosmologie.
+244,1er décembre 1989,Granat,Union soviétique France,Terre (orbiteur),"Succès : satellite d'astronomie en rayons X et d'astronomie gamma, a fourni la première image du Centre galactique dans le domaine des rayons X durs et a permis la découverte des microquasars."
+245,22 janvier 1990,Lusat,Argentine,Terre (orbiteur),Succès : premier satellite artificiel argentin. Satellite radioamateur.
+246,24 janvier 1990,Hiten,Japon,Lune (survol et orbiteur),Succès partiel : première mission non américaine et non soviétique à atteindre la Lune. Avait pour objectif de tester des technologies utilisées par les futures sondes lunaires et interplanétaires japonaises.
+247,24 avril 1990,Hubble,États-Unis,Terre (orbiteur),"Succès : les données collectées par Hubble ont contribué à des découvertes de grande portée dans le domaine de l'astrophysique telles que la mesure du taux d'expansion de l'Univers, la confirmation de la présence de trous noirs supermassifs au centre des galaxies ou l'existence de la matière noire et de l'énergie noire. Hubble avait été conçu pour permettre des opérations de maintenance par des missions des navettes spatiales, 5 missions furent réalisées. La première permit de corriger une anomalie du miroir principal en 1993."
+248,1er juin 1990,Rosat,Allemagne États-Unis Royaume-Uni,Terre (orbiteur),Succès : satellite d'astronomie en rayons X et d'astronomie en ultraviolet. Premier satellite à cartographier entièrement le ciel en rayons-X.
+249,11 juillet 1990,Gamma,Russie France,Terre (orbiteur),Succès : satellite d'astronomie gamma. Projet développé pendant 35 ans avec une participation importante de la France.
+250,16 juillet 1990,BADR-A,Pakistan,Terre (orbiteur),Succès : premier satellite artificiel pakistanais. Satellite de télécommunications.
+251,6 octobre 1990,Ulysses,États-Unis Europe,Soleil (orbiteur),Succès : premier engin scientifique parvenu à recueillir des données au niveau des hautes latitudes du Soleil. Étude des principales caractéristiques de l'héliosphère.
+252,5 avril 1991,Compton,États-Unis,Terre (orbiteur),"Succès :  observatoire spatial destiné à l'étude des rayons gammas. Fait partie du programme des grands observatoires. A été lancé par la navette spatiale Atlantis. Pesant 17 tonnes, il était à l'époque de son lancement le satellite destiné à l'astrophysique le plus lourd jamais lancé."
+253,30 août 1991,Yohkoh,Japon,Soleil (orbiteur),Succès :  satellite d'observation du Soleil. Étude des émissions à haute énergie associées aux éruptions solaires.
+254,16 décembre 1991,Telecom 2A,France,Terre (orbiteur),Succès : satellite de télécommunications en orbite géostationnaire.
+255,15 avril 1992,Telecom 2B,France,Terre (orbiteur),Succès
+256,10 août 1992,Uribyol-1,Corée du Sud,Terre (orbiteur),Succès : premier satellite artificiel sud-coréen. Satellite scientifique.
+257,25 septembre 1992,Mars Observer,États-Unis Russie France,Mars (orbiteur),Échec
+258,20 février 1993,ASTRO-D,Japon,Terre (orbiteur),Succès : satellite d'astronomie en rayons X.
+259,26 septembre 1993,POSAT 1,Portugal,Terre (orbiteur),Succès : premier satellite artificiel portugais. Microsatellite expérimental.
+260,18 décembre 1993,Thaicom-1,Thaïlande,Terre (orbiteur),Succès : premier satellite artificiel thaïlandais. Satellite géostationnaire de télécommunications.
+261,25 janvier 1994,Clementine,États-Unis,Lune (orbiteur) (1620) Géographos (survol),Succès partiel : cartographie complète de la surface de la Lune.
+262,10 août 1994,Turksat-1B,Turquie,Terre (orbiteur),Succès : premier satellite artificiel turc. Satellite géostationnaire de télécommunications.
+263,7 avril 1995,MSAT-2 (en),Canada États-Unis,Terre (orbiteur),"Succès : satellite de télécommunications, téléphonie mobile."
+264,4 novembre 1995,Radarsat-1,Canada,Terre (orbiteur),Succès : satellite d'observation.
+265,2 décembre 1995,SOHO,États-Unis Europe  Japon,Soleil (orbiteur),"Succès : étude de la structure interne du Soleil, des processus produisant le vent solaire et de la couronne solaire. Satellite à l'origine de découvertes majeures concernant le soleil."
+266,6 décembre 1995,Telecom 2C,France,Terre (orbiteur),Succès : satellite de télécommunications.
+267,12 janvier 1996,Measat-1,Malaisie,Terre (orbiteur),Succès : premier satellite artificiel malaisien. Satellite géostationnaire de télécommunications.
+268,17 février 1996,NEAR Shoemaker,États-Unis,(433) Éros (survol),Succès : première sonde spatiale à avoir orbité autour d'un astéroïde et atterri à sa surface. L'atterrissage improvisé fut réussi et permit à la sonde de transmettre des données depuis la surface pendant 16 jours.
+269,20 avril 1996,MSAT-1,Canada,Terre (orbiteur),Succès : télécommunications
+270,7 novembre 1996,Mars Global Surveyor,États-Unis,Mars (orbiteur),Succès : cartographie de Mars
+271,4 décembre 1996,Mars Pathfinder,États-Unis,Mars (atterrisseur),Succès : premier rover fonctionnel sur Mars (Sojourner)
+272,8 août 1996,Telecom 2D,France,Terre (orbiteur),Succès : télécommunications
+273,20 mai 1997,Thor-2A,Norvège,Terre (orbiteur),Succès : premier satellite artificiel norvégien. Satellite géostationnaire de télécommunications.
+274,15 octobre 1997,Cassini-Huygens,États-Unis Europe,Saturne (survol)Titan (atterrisseur),"Succès : Cassini s'est placé en orbite autour de Saturne en 2004. En 2005 l'atterrisseur européen Huygens, après s'être détaché de la sonde mère, s'est posé à la surface de la lune Titan et a pu retransmettre les informations collectées durant la descente et après son atterrissage"
+275,19 août 1997,Agila 2,Philippines,Terre (orbiteur),Succès : premier satellite artificiel philippin. Satellite géostationnaire de télécommunications.
+276,7 janvier 1998,Lunar Prospector,États-Unis,Lune (orbiteur),Succès
+277,28 avril 1998,Nilesat-101,Égypte,Terre (orbiteur),Succès : premier satellite artificiel égyptien. Satellite géostationnaire de télécommunications.
+278,3 juillet 1998,Nozomi,Japon,Mars (orbiteur),Échec : première sonde japonaise à atteindre une autre planète
+279,31 août 1998,Kwangmyŏngsŏng-1,Corée du Nord,Terre (orbiteur),Échec : aucune source indépendante n’a pu confirmer cette mission
+280,24 octobre 1998,Deep Space 1,États-Unis,(9969) Braille (survol)19P/Borrelly (survol),Succès : première sonde du programme New Millennium.  A permis de valider de nouvelles technologies spatiales dont l'utilisation d'un moteur ionique en tant que système de propulsion principal.
+281,20 novembre 1998,ISS,États-Unis Russie Europe Japon Canada,Terre (orbiteur),"Succès : la Station spatiale internationale est une station spatiale modulaire placée en orbite terrestre basse, occupée en permanence par un équipage international qui se consacre à la recherche scientifique dans l'environnement spatial. Est le plus grand des objets artificiels placés en orbite terrestre (en 2014). Elle s'étend sur 110 m de longueur, 74 m de largeur et 30 m de hauteur et a une masse d'environ 400 tonnes. Les travaux scientifiques portent principalement sur la biologie - en particulier l'adaptation de l'homme à l'absence de pesanteur - ainsi que sur la science des matériaux et l'astronomie."
+282,11 décembre 1998,Mars Climate Orbiter,États-Unis,Mars (orbiteur),Échec : la sonde est détruite durant la manœuvre d'insertion en orbite autour de Mars.
+283,3 janvier 1999,Mars Polar Lander,États-Unis,Mars (atterrisseur),Échec : anomalie lors de la rentrée atmosphérique. Contenait l'expérience Deep Space 2.
+284,27 janvier 1999,Formosat-1,Taïwan,Terre (orbiteur),Succès : premier satellite artificiel taïwanais. Satellite scientifique.
+285,23 janvier 1999,SUNSAT,Afrique du Sud,Terre (orbiteur),Succès : premier satellite artificiel sud africain. Micro satellite scientifique.
+286,23 janvier 1999,Ørsted,Danemark,Terre (orbiteur),Succès : premier satellite artificiel danois. Micro satellite scientifique.
+287,21 mai 1999,Nimiq-1,Canada,Terre (orbiteur),Succès : télécommunications
+288,23 juillet 1999,Chandra,États-Unis,Terre (orbiteur),"Succès : satellite d'astronomie en rayons X lancé par la navette spatiale Columbia. Son appareillage est 100 fois plus performant que celui de ses prédécesseurs, fait partie du programme des Grands observatoires."
+289,19 novembre 1999,Shenzhou 1,Chine,Terre (orbiteur),"Succès : premier vol du programme Shenzhou, le programme de vol spatial habité de la République populaire de Chine. Vol de test, inhabité."
+290,10 décembre 1999,XMM-Newton,Europe,Terre (orbiteur),"Succès : satellite d'astronomie en rayons X, a permis de nombreuses découvertes dans le domaine de l'astrophysique.  Fait partie du programme Horizon 2000."
+291,25 mars 2000,IMAGE,États-Unis,Terre (orbiteur),Succès :  premier engin spatial destiné à étudier la réponse globale de la magnétosphère de la Terre à des changements dans le vent solaire
+292,21 octobre 2000,Thuraya 1,Émirats arabes unis,Terre (orbiteur),Succès : premier satellite artificiel des Émirats arabes unis. Satellite de télécommunications.
+293,30 octobre 2000,Beidou 1A,Chine,Terre (orbiteur),Succès : premier satellite du système de positionnement par satellites chinois Beidou. Satellite de démonstration destiné à tester les composants du système.
+294,7 avril 2001,Mars Odyssey,États-Unis,Mars (orbiteur),Succès : a dressé une carte de la distribution des minéraux et des éléments chimiques à la surface de Mars et a détecté la présence d'eau
+295,30 juin 2001,WMAP,États-Unis,Soleil (orbiteur),Succès : exécution d’observations cosmologiques.
+296,8 août 2001,Genesis,États-Unis,Soleil (orbiteur),"Succès partiel :  a ramené sur Terre des échantillons des particules du vent solaire, flux d'ions et électrons énergétiques produit par le Soleil mais s'écrasa au retour. Objectifs scientifiques en voie d'être atteints."
+297,7 décembre 2001,Jason-1,France États-Unis,Terre (orbiteur),Succès : étudier les océans et leur influence sur les changements climatiques
+298,1er mars 2002,ENVISAT,Europe,Terre (orbiteur),"Succès : satellite d'observation de la Terre, mesure à différentes échelles les principaux paramètres environnementaux de la Terre relatifs à l'atmosphère, l'océan, les terres émergées et les glaces."
+299,17 mars 2002,GRACE,États-Unis Allemagne,Terre (orbiteur),Succès :  mesures détaillées de la gravité terrestre afin de connaitre la répartition des masses au sein de la planète et ses variations dans le temps.
+300,11 décembre 2002,STENTOR,France,Terre (orbiteur),"Échec : démonstrateur du CNES, satellite de télécommunications expérimental.  Destruction contrôlée du lanceur.  Premier vol de la version ECA d'Ariane 5 et son seul échec."
+301,9 mai 2003,Hayabusa,Japon,(25143) Itokawa (atterrisseur),"Succès partiel : retour d'échantillon d'un astéroïde, usage des  moteurs ioniques en tant que système de propulsion principal, atterrissage partiellement réussi le 19 novembre 2005."
+302,2 juin 2003,Mars Express,Europe,Mars (orbiteur et atterrisseur),Échec partiel : la sonde Mars Express réussit le placement en orbite alors que Beagle 2 échoue l’atterrissage.
+303,10 juin 2003,Spirit,États-Unis,Mars (atterrisseur),"Succès : rover piloté par un opérateur depuis la Terre, étude géologique de la surface de Mars, actif jusqu'en mars 2010."
+304,30 juin 2003,MOST,Canada,Terre (orbiteur),Succès : le plus petit télescope spatial mis en orbite.  Premier télescope spatial destiné à l'étude de la sismologie stellaire.
+305,8 juillet 2003,Opportunity,États-Unis,Mars (atterrisseur),"Succès : rover piloté par un opérateur depuis la Terre, étude géologique de la surface de Mars. A parcouru 40 km sur Mars."
+306,27 septembre 2003,SMART-1,Europe,Lune (orbiteur),"Succès :  démonstrateur technologique propulsé par un moteur ionique alimenté par des panneaux solaires, navigation automatique, communication par rayon laser."
+307,15 octobre 2003,Shenzhou 5,Chine,Terre (orbiteur),Succès : la chine devient la troisième nation à pouvoir placer un Homme en orbite avec un lanceur national. Yang Liwei devient le premier chinois à effectuer un vol orbital à bord d'un vaisseau Shenzhou lancé par une fusée Longue Marche 2F depuis la base de lancement de Jiuquan.
+308,29 décembre 2003,Double Star TC-1,Europe Chine,Terre (orbiteur),Succès : première mission chinoise étudiant la magnétosphère terrestre.
+309,2 mars 2004,Rosetta,Europe,67P/Tchourioumov-Guerassimenko (orbiteur et atterrisseur),"Succès : première sonde à poser un atterrisseur sur le noyau d'une comète, sixième sonde à se placer en orbite autour d'une comète. A survolé les astéroïdes (2867) Šteins et (21) Lutèce."
+310,25 juillet 2004,Double Star TC-2,Europe Chine,Terre (orbiteur),Succès : étude de la magnétosphère terrestre.
+311,3 août 2004,MESSENGER,États-Unis,Mercure (orbiteur),"Succès : effectuer une cartographie complète de Mercure, étudier la composition chimique de sa surface et de son exosphère et son histoire géologique. Première exploration de Mercure depuis 1975."
+312,20 novembre 2004,SWIFT,États-Unis Royaume-Uni Italie,Terre (orbiteur),Succès : étude des sursauts gamma.
+313,12 janvier 2005,Deep Impact,États-Unis,9P/Tempel (survol),"Succès : sonde spatiale, recueil de données sur la composition interne de la comète Tempel 1 via le largage d'un impacteur. A créé un cratère d'environ 30 mètres de diamètre."
+314,21 juin 2005,Cosmos 1,États-Unis,Terre (satellite),"Échec : première voile solaire lancée dans l'espace, à l'initiative de l'organisation The Planetary Society. Le lancement effectué par une fusée Volna depuis le sous-marin nucléaire lanceur d'engins russe K-496 fut un échec."
+315,12 août 2005,Mars Reconnaissance Orbiter,États-Unis,Mars (orbiteur),"Succès : cartographie de Mars, étude de la composition minéralogique du sol, sa géologie, rechercher l'eau piégée sous forme de glace."
+316,13 octobre 2005,Syracuse 3A,France,Terre (Géostationnaire),Succès : satellite de télécommunications
+317,19 janvier 2006,New Horizons,États-Unis,Pluton (survol)Ceinture de Kuiper (survol),Succès : Première sonde à survoler Pluton le 14 juillet 2015. Première mission spatiale à explorer la Ceinture de Kuiper.
+318,11 mars 2006,Hot Bird 7A,France,Terre (orbiteur),Succès : télécommunications
+319,28 avril 2006,CALIPSO,France États-Unis,Terre (orbiteur),Succès : a pour but d'améliorer la modélisation de l'évolution du climat. Tandem avec CloudSat
+320,28 avril 2006,CloudSat,États-Unis,Terre (orbiteur),Succès : a pour but d'améliorer la modélisation de l'évolution du climat. Tandem avec CALIPSO
+321,4 août 2006,Hot Bird 8,France,Terre (orbiteur),Succès : télécommunications
+322,11 août 2006,Syracuse 3B,France,Terre (orbiteur),Succès
+323,27 décembre 2006,CoRoT,France,Terre (orbiteur),Succès : structure interne des étoiles et recherche d'exoplanètes
+324,4 août 2007,Phoenix,États-Unis,Mars (atterrisseur),"Succès : sixième engin à se poser en douceur sur le sol de la planète Mars, le 25 mai 2008. A confirmé la présence d'eau gelée dans le sol martien."
+325,14 septembre 2007,SELENE,Japon,Lune (orbiteur),Succès : topographie de la Lune et de son champ de gravité
+326,27 septembre 2007,Dawn,États-Unis,(4) Vesta (orbiteur)(1) Cérès (orbiteur),Succès : étude des deux principaux corps de la ceinture d'astéroïdes. Première sonde à se placer en orbite successivement autour de deux corps célestes. Première sonde à atteindre Vesta (16 juillet 2011) et Cérès (6 mars 2015).
+327,24 octobre 2007,Chang'e 1,Chine,Lune (orbiteur),Succès : premier satellite d'observation lunaire chinois
+328,14 décembre 2007,Radarsat-2,Canada,Terre (orbiteur),"Succès : satellite d'observation de la Terre, équipé d'un radar à synthèse d'ouverture."
+329,9 mars 2008,Jules Verne,Europe,ISS (amarrage),"Succès : premier vaisseau cargo spatial automatisé européen. Peut transporter environ 7,7 tonnes de fret."
+330,18 avril 2008,VINASAT-1,Viêt Nam,Terre (orbiteur),"Succès : premier satellite artificiel vietnamien, satellite de télécommunications commandé à  Lockheed Martin."
+331,11 juin 2008,Fermi,États-Unis,Terre (orbiteur),Succès :  télescope spatial  destiné à l'étude des rayons gamma de haute énergie émis par les objets célestes.
+332,28 septembre 2008,Ratsat,États-Unis,Terre (orbiteur),"Succès : satellite de démonstration, la fusée Falcon 1 de SpaceX devient le premier lanceur développé et produit par des fonds privés à effectuer une mise en orbite."
+333,22 octobre 2008,Chandrayaan-1,Inde,Lune (orbiteur et impacteur),"Succès : première sonde lunaire indienne, étude de la Lune, test des capacités technologiques de l'Inde dans l'espace."
+334,23 janvier 2009,Ibuki,Japon,Terre (orbiteur),Succès : premier satellite destiné à l'étude des gaz à effet de serre. Étude des concentrations de dioxyde de carbone et de méthane sur plus de 56 000 points de l'atmosphère terrestre.
+335,2 février 2009,Omid,Iran,Terre (orbiteur),Succès : premier satellite artificiel iranien.  Lancé par une fusée Safir-2 depuis la base de Semnan. L'Iran devient la neuvième puissance spatiale.
+336,24 février 2009,OCO-1,États-Unis,Terre (orbiteur),"Échec : anomalie lors du lancement, devait effectuer des mesures de la quantité de dioxyde de carbone présent dans l'atmosphère terrestre."
+337,15 mars 2009,Kepler,États-Unis,Terre (orbiteur),Succès : télescope spatial développé pour détecter des exoplanètes. En juillet 2013 Kepler avait détecté 134 planètes confirmées par d'autres observations gravitant autour de 76 étoiles.
+338,14 mai 2009,Herschel,Europe,Lagrange L2 (orbiteur),"Succès : télescope spatial, a réalisé des observations astronomiques dans les domaines de l’infrarouge lointain et du submillimétrique pour étudier la formation des étoiles, la naissance des galaxies primitives et l'évolution des galaxies ainsi que la chimie du milieu spatial. Est à son lancement le plus grand des télescopes spatiaux à entrer en service."
+339,14 mai 2009,Planck,Europe,Lagrange L2 (orbiteur),"Succès : télescope spatial, étude du fond diffus cosmologique dans le domaine spectral des micro-ondes. Permet de dresser plusieurs cartes reconstituant l'histoire de l'Univers."
+340,14 décembre 2009,WISE,États-Unis,Terre (orbiteur),"Succès : télescope spatial, a découvert 33 000 astéroïdes dans la ceinture principale, 134 géocroiseurs et 20 comètes (février 2011)."
+341,11 février 2010,Solar Dynamics Observatory,États-Unis,Terre (orbiteur),"Succès : doit développer notre connaissance du Soleil, en particulier ses caractéristiques qui affectent la Terre et l'espace proche de celle-ci, et les changements de son activité."
+342,22 avril 2010,Boeing X-37,États-Unis,Terre (orbiteur),"Succès :  prototype de navette spatiale sans équipage développé par la NASA à compter de 1999, destiné à mettre au point de nouvelles technologies pour les décollages orbitaux et les rentrées atmosphériques et à préparer le remplacement de la navette spatiale américaine."
+343,20 mai 2010,Akatsuki,Japon,Vénus (orbiteur),Succès : étude de l'atmosphère de Vénus. Est entré en orbite le 7 décembre 2015 après le sauvetage de la mission à la suite d'une défaillance du système de propulsion.
+344,1er octobre 2010,Chang'e 2,Chine,Lune (orbiteur)4179 Toutatis (survol),"Succès : étude de la Lune, première mission chinoise vers un astéroïde"
+345,4 mars 2011,Glory,États-Unis,Terre (orbiteur),"Échec : anomalie lors du lancement. Était chargé de déterminer les caractéristiques des aérosols présents dans l'atmosphère terrestre et de calculer avec précision l'irradiance totale du Soleil. Il devait faire partie du A-train, une série de satellites consacrés à l'observation de l'atmosphère terrestre."
+346,18 juillet 2011,RadioAstron,Russie,Terre (orbiteur),"Succès : radiotélescope spatial, réalisation d'observations sur quatre longueurs d'onde."
+347,5 août 2011,Juno,États-Unis,Jupiter (orbiteur),"En cours : étude de Jupiter, structure et mode de formation. Devrait arriver en orbite en 2016."
+348,10 septembre 2011,GRAIL,États-Unis,Lune (orbiteur),Succès : a réalisé un relevé très détaillé du champ de gravité de la Lune pour déterminer la structure interne de celle-ci.
+349,29 septembre 2011,Tiangong 1,Chine,Terre (orbiteur),"Succès :  première station spatiale chinoise, doit permettre de valider la technique du rendez-vous spatial automatique, mettre au point les composants d'une station spatiale et expérimenter le séjour d'un équipage. Tiangong 1 est une station de petite taille (8,5 tonnes)."
+350,12 octobre 2011,Megha-Tropiques,France Inde,Terre (orbiteur),Succès :  étude des échanges d'énergie thermique entre océans et atmosphère dans la zone tropicale pour mieux comprendre leur incidence sur le climat.
+351,21 octobre 2011,Galileo PFM,Europe,Terre (orbiteur),Succès : premier satellite du système de positionnement par satellites européen Galileo. Satellite de démonstration destiné à tester les composants du système.
+352,8 novembre 2011,Phobos-Grunt,Russie,Phobos (atterrisseur),"Échec : étude de Phobos, est retombé sur Terre le 15 janvier 2012."
+353,26 novembre 2011,Curiosity,États-Unis,Mars (atterrisseur),"Succès :  rover piloté par un opérateur depuis la Terre, étude géologique de la surface de Mars, a atterri sur Mars le 6 août 2012.  Cinq fois plus lourd que les rovers précédents (899 kg)."
+354,22 mai 2012,COTS-2,États-Unis,ISS (amarrage),Succès :  premier vaisseau cargo spatial commercial  à effectuer un rendez-vous et un amarrage à la Station spatiale internationale
+355,16 juin 2012,Shenzhou 9,Chine,Tiangong 1 (amarrage),"Succès : vol spatial habité. Validation du système d'auto-amarrage, premier équipage à bord de la station spatiale chinoise, première chinoise dans l'espace (Liu Yang)."
+356,9 septembre 2012,SPOT 6,France,Terre (orbiteur),"Succès : satellite de télédétection français civil d’observation de la Terre réalisé et exploité par EADS Astrium. La résolution des images panchromatiques est de 1,5 mètre. Placé en orbite par un lanceur indien PSLV."
+357,12 décembre 2012,Kwangmyŏngsŏng 3 numéro 2,Corée du Nord,Terre (orbiteur),Succès : premier satellite artificiel nord-coréen.  Lancé par une fusée Unha-3 depuis  la base de lancement de Sohae. La Corée du Nord devient la dixième puissance spatiale.
+358,30 janvier 2013,STSAT-2C,Corée du Sud,Terre (orbiteur),Succès : premier satellite artificiel sud-coréen lancé par une fusée sud-coréenne Naro-1 depuis le centre de lancement de Naro. La Corée du Sud devient la onzième puissance spatiale.
+359,5 novembre 2013,Mars Orbiter Mission,Inde,Mars (orbiteur),"Succès : étude de l'atmosphère martienne, s'est placée en orbite autour de Mars le 24 septembre 2014. L'Inde devient la quatrième puissance spatiale à disposer d'un engin spatial martien."
+360,18 novembre 2013,MAVEN,États-Unis,Mars (orbiteur),"Succès :  orbiteur de grande taille (2,55 tonnes, 11 mètres d'envergure), destiné à l'étude de l'atmosphère de Mars et à servir de relais de télécommunications entre les engins spatiaux posés sur le sol martien et la Terre."
+361,1er décembre 2013,Chang'e 3,Chine,Lune (atterrisseur),Succès : premier rover chinois sur la Lune (Yutu).  Premier engin spatial à se poser sur la Lune depuis 1976.
+362,19 décembre 2013,Gaia,Europe,Lagrange L2 (orbiteur),"Succès : mission spatiale d'astrométrie, consacrée à la mesure de la position, de la distance et du mouvement des étoiles, étude de la formation et de l'évolution de notre galaxie."
+363,3 avril 2014,Sentinelle-1A,Europe,Terre (orbiteur),"Succès : satellite d'observation radar de la Terre en orbite basse, premier de la série Sentinel devant remplacer ENVISAT."
+364,19 juin 2014,ANTELSat,Uruguay,Terre (orbiteur),Succès : premier satellite artificiel uruguayen. Satellite scientifique ayant une composante destinée aux radioamateurs.
+365,19 juin 2014,QB50p1,Belgique,Terre (orbiteur),Succès : premier satellite artificiel belge. Satellite scientifique.
+366,19 juin 2014,TigriSat,Irak,Terre (orbiteur),Succès : premier satellite artificiel irakien. Satellite scientifique.
+367,3 décembre 2014,Hayabusa 2,Japon,(162173) Ryugu (orbiteur),En transit : mission de retour d'échantillon d'un astéroïde de type C.
+368,5 décembre 2014,EFT-1,États-Unis,Terre (orbiteur),Succès : premier vol du véhicule spatial Orion.
+369,31 janvier 2015,SMAP,États-Unis,Terre (orbiteur),Succès : satellite scientifique devant effectuer des mesures d'humidité du sol de la surface terrestre ainsi que de leur état (gel-dégel).
+370,27 avril 2015,TurkmenAlem52E/MonacoSAT,Turkménistan,Terre (orbiteur),"Succès : premier satellite artificiel turkmène. Satellite de télécommunications, lancé par une fusée Falcon 9 V1.1 de SpaceX."
+371,24 novembre 2015,Telstar 12V,Canada,Terre (orbiteur),"Succès : satellite de telecommunications, placé en orbite de transfert géostationnaire par un lanceur japonais H-IIA, premier lancement commercial effectué par le Japon."
+372,22 décembre 2015,Orbcomm OG2 (en),États-Unis,Terre (orbiteur),"Succès : 11 satellites de télécommunications appartenant à la société Orbcomm, placés en orbite lors du premier vol du lanceur Falcon 9 Full Thrust (v1.2) de SpaceX. Premier atterrissage réussi d'un premier étage de lanceur après mise en orbite. Étape décisive vers un lanceur réutilisable."
+373,7 janvier 2021,Turquie,TÜRKSAT 5A,Terre,"Succès. 7e satellite de communication turc, lancé par une Falcon 9."
+374,19 juillet 2020,EAU,Hope,Mars,Succès. Lancé avec la fusée H-IIA le 19 juillet et atteint Mars le 9 février 2021.
+375,30 juillet 2020,États-Unis,Perseverance,Mars,Succès. Lancé le 30 juillet avec une fusée Atlas V et atterrit le 18 février 2021 avec le petit hélicoptère Ingenuity.
